@@ -1,0 +1,22 @@
+Cross-Lingual Prompt Cycle Evaluation - 2025-06-15 03:07:24
+===========================================================
+
+Source Language: de
+Original:        Obwohl es den ganzen Tag geregnet hat, haben wir beschlossen, einen Spaziergang 
+durch den Park zu machen, um die frische Luft zu genießen
+English:         Although it has rained all day, we have decided to take a walk through the park to 
+enjoy the fresh air
+Back Translated: Obwohl es den ganzen Tag geregnet hat, haben wir beschlossen, einen Spaziergang 
+durch den Park zu machen, um die frische Luft zu genießen
+
+Evaluation Metrics:
+------------------------------
+char_bleu                : 1.0000
+edit_distance            : 0.0000
+normalized_edit_distance : 1.0000
+explainability           : 1.0000
+
+Translation Quality: Excellent (1.00)
+
+==================================================
+

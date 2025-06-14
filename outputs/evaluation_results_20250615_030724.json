@@ -1,0 +1,13 @@
+{
+  "timestamp": "2025-06-15T03:07:24.146161",
+  "source_language": "de",
+  "original": "Obwohl es den ganzen Tag geregnet hat, haben wir beschlossen, einen Spaziergang durch den Park zu machen, um die frische Luft zu genießen",
+  "english": "Although it has rained all day, we have decided to take a walk through the park to enjoy the fresh air",
+  "back_translated": "Obwohl es den ganzen Tag geregnet hat, haben wir beschlossen, einen Spaziergang durch den Park zu machen, um die frische Luft zu genießen",
+  "metrics": {
+    "char_bleu": 1.0,
+    "edit_distance": 0,
+    "normalized_edit_distance": 1.0,
+    "explainability": 1.0
+  }
+}
