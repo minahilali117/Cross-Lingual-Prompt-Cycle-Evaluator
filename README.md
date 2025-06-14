@@ -56,6 +56,11 @@ Evaluate a German prompt:
 python prompt_cycle_evaluator.py "Hallo Welt" --lang de
 ```
 
+Or for a more complex prompt:
+```bash
+ython "Cross-Lingual Prompt Cycle Evaluator.py" "Obwohl es den ganzen Tag geregnet hat, haben wir beschlossen, einen Spaziergang durch den Park zu machen, um die frische Luft zu genießen" --lang de
+```
+
 ### Command Line Arguments
 
 - `prompt`: The input text to evaluate (required)
